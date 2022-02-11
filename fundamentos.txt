@@ -16,3 +16,11 @@ Obteniendo un repositorio Git
 Puedes obtener un proyecto Git de dos maneras. La primera es tomar un proyecto o directorio
 existente e importarlo en Git. La segunda es clonar un repositorio existente en Git desde otro
 servidor.
+
+
+Inicializando un repositorio en un directorio existente
+
+Si estás empezando a seguir un proyecto existente en Git, debes ir al directorio del proyecto y usar
+el siguiente comando:
+
+        $ git init
